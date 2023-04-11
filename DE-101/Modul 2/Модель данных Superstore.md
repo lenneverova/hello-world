@@ -13,3 +13,8 @@
 3) Физическая модель данных:
 
 ![Физ модель](https://user-images.githubusercontent.com/113906493/231140439-7dad3234-9007-4a26-9414-19e5a8f28c00.png)
+
+
+Итоговый результат в PostgreSQL
+
+![DDL PostgreSQL](https://user-images.githubusercontent.com/113906493/231145592-916c7c91-54de-4263-81be-680a9b8f794d.png)
