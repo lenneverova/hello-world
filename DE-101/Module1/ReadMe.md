@@ -12,5 +12,5 @@
   -  Показатели менеджеров по продаже и выручке, дополнительно можно будет отфильтроваться по определенному менеджеру
   -  Основные показатели и анализ по клиентам
   -  Основные показатели по продуктам
-![Dashboard](https://github.com/lenneverova/hello-world/DE-101/Module1/Dashboard.png)
+![Dashboard](https://github.com/lenneverova/hello-world/blob/main/DE-101/Module1/Dashboard.png))
 
