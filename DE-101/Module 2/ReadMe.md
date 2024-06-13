@@ -18,7 +18,7 @@
 
 ## Задание 3 - Создание модели Данных Superstore
 
-Нарисовать концептуальную, логическую, физическую модель данных.
+Нарисовать концептуальную, логическую, физическую модель данных. [DDL_script.sql](https://github.com/lenneverova/hello-world/blob/main/DE-101/Module%202/DDL_Data_Warehouse.sql)
 
 Модели базы данных созданы в SqlDBM (https://app.sqldbm.com/)
 
