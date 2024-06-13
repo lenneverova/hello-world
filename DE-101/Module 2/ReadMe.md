@@ -1,6 +1,25 @@
-# Модель данных Superstore
+# Модуль 2
+## Задание 1 - Установить БД на компьютере
 
-Модели базы данныз созданы в SqlDBM (https://app.sqldbm.com/)
+Установлен PostgreSQL на Windows
+
+## Задание 2 - Подключение к Базам Данных и SQL
+Установить клиент SQL для подключения базы данных
+
+    Установлен PostgreSQL и DBeaver.
+
+Создайть 3 таблицы и загрузить данные из Superstore Excel файл в базу данных. Сохранить в GitHub скрипт загрузки данных и создания таблиц.
+
+    Сделано. Скрипты можно загрузить по ссылке: ![script1](https://github.com/lenneverova/hello-world/blob/main/DE-101/Module%202/script_data2.sql), ![script2](https://github.com/lenneverova/hello-world/blob/main/DE-101/Module%202/script_data1.sql);
+
+Написать запросы, чтобы ответить на вопросы из Модуля 1. Сохранить в GitHub скрипт загрузки данных и создания таблиц.
+
+    Написаны основые скрипты для получения ответов как на Модуле 1. Пример скрипта можно найти тут: ![script_analytics](https://github.com/lenneverova/hello-world/blob/main/DE-101/Module%202/script_analitics.sql);
+
+## Задание 3 - Модели Данных Superstore
+
+Нарисовать концептуальную, логическую, физическую модель данных
+Модели базы данных созданы в SqlDBM (https://app.sqldbm.com/)
 
 
 1) Концептуальная модель данных:
