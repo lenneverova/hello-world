@@ -1,6 +1,7 @@
 # Домашняя работа - Модуль 1
 ## Задание 1 - Установить GIT и создать репозиторий DE-101 с папкой Module 1
 ## Задание 2 - Архитектура аналитического решения
+![LMS System](https://github.com/lenneverova/hello-world/blob/main/DE-101/Module1/%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D1%8F.png)
 
 ## Задание 3 - Аналитика в Excel
 
@@ -12,5 +13,5 @@
   -  Показатели менеджеров по продаже и выручке, дополнительно можно будет отфильтроваться по определенному менеджеру
   -  Основные показатели и анализ по клиентам
   -  Основные показатели по продуктам
-![Dashboard](https://github.com/lenneverova/hello-world/blob/main/DE-101/Module1/Dashboard.png))
+![Dashboard](https://github.com/lenneverova/hello-world/blob/main/DE-101/Module1/Dashboard.png)
 
