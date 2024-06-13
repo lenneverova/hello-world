@@ -24,7 +24,7 @@
     Business Intelligence (Бизнес-аналитика): Инструменты и процессы для анализа данных и помощи в принятии бизнес-решений.
     Пользователь (USER) взаимодействует через бизнес уровень
 
-![LMS System](https://github.com/lenneverova/hello-world/blob/main/DE-101/Module1/LMS.png)
+![LMS System](https://github.com/lenneverova/hello-world/blob/main/DE-101/Module1/Pictures/LMS.png)
 
 ## Задание 3 - Аналитика в Excel
 
@@ -36,5 +36,5 @@
   -  Показатели менеджеров по продаже и выручке, дополнительно можно будет отфильтроваться по определенному менеджеру
   -  Основные показатели и анализ по клиентам
   -  Основные показатели по продуктам
-![Dashboard](https://github.com/lenneverova/hello-world/blob/main/DE-101/Module1/Dashboard.png)
+![Dashboard](https://github.com/lenneverova/hello-world/blob/main/DE-101/Module1/Pictures/Dashboard.png)
 
