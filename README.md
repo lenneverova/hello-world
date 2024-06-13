@@ -1,5 +1,4 @@
 # hello-world
-My first repository
 
 В этом репозитории проекты, выполненные при обучении в Data Engineerind. 
 
