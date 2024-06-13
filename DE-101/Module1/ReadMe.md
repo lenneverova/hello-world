@@ -24,7 +24,7 @@
     Business Intelligence (Бизнес-аналитика): Инструменты и процессы для анализа данных и помощи в принятии бизнес-решений.
     Пользователь (USER) взаимодействует через бизнес уровень
 
-![LMS System]()
+![LMS System](https://github.com/lenneverova/hello-world/blob/main/DE-101/Module1/LMS.png)
 
 ## Задание 3 - Аналитика в Excel
 
