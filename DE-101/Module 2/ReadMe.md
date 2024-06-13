@@ -10,11 +10,11 @@
 
 Создайть 3 таблицы и загрузить данные из Superstore Excel файл в базу данных. Сохранить в GitHub скрипт загрузки данных и создания таблиц.
 
-    Сделано. Скрипты можно загрузить по ссылке: ![script1](https://github.com/lenneverova/hello-world/blob/main/DE-101/Module%202/script_data2.sql), ![script2](https://github.com/lenneverova/hello-world/blob/main/DE-101/Module%202/script_data1.sql);
+    Сделано. Скрипты можно загрузить по ссылке: ![script1.sql](https://github.com/lenneverova/hello-world/blob/main/DE-101/Module%202/script_data2.sql), ![script2.sql](https://github.com/lenneverova/hello-world/blob/main/DE-101/Module%202/script_data1.sql);
 
 Написать запросы, чтобы ответить на вопросы из Модуля 1. Сохранить в GitHub скрипт загрузки данных и создания таблиц.
 
-    Написаны основые скрипты для получения ответов как на Модуле 1. Пример скрипта можно найти тут: ![script_analytics](https://github.com/lenneverova/hello-world/blob/main/DE-101/Module%202/script_analitics.sql);
+    Написаны основые скрипты для получения ответов как на Модуле 1. Пример скрипта можно найти тут: ![script_analytics.sql](https://github.com/lenneverova/hello-world/blob/main/DE-101/Module%202/script_analitics.sql);
 
 ## Задание 3 - Модели Данных Superstore
 
