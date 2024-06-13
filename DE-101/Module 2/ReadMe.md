@@ -40,3 +40,6 @@
 Итоговый результат в PostgreSQL
 
 ![DDL PostgreSQL](https://user-images.githubusercontent.com/113906493/231145592-916c7c91-54de-4263-81be-680a9b8f794d.png)
+
+
+## Задание 4 - База данных в облаке
