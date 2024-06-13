@@ -16,7 +16,7 @@
 
  - Написаны основые скрипты для получения ответов как на Модуле 1. Пример скрипта можно найти тут: [script_analytics.sql](https://github.com/lenneverova/hello-world/blob/main/DE-101/Module%202/script_analitics.sql);
 
-## Задание 3 - Модели Данных Superstore
+## Задание 3 - Создание модели Данных Superstore
 
 Нарисовать концептуальную, логическую, физическую модель данных
 Модели базы данных созданы в SqlDBM (https://app.sqldbm.com/)
