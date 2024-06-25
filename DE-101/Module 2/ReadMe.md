@@ -44,4 +44,5 @@
 
 ## Задание 4 - База данных в облаке
 
-![Подключение к облачной БД](https://miro.com/app/board/uXjVK8EG5z4=/?moveToWidget=3458764592264754531&cot=14)
+![Подключение к облачной БД](https://github.com/lenneverova/hello-world/blob/main/DE-101/Module%202/image(6).png)
+![Как выгляит решение в облаке](https://github.com/lenneverova/hello-world/blob/main/DE-101/Module%202/image(7).png)
