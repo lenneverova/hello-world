@@ -46,3 +46,7 @@
 
 ![Подключение к облачной БД](https://github.com/lenneverova/hello-world/blob/main/DE-101/Module%202/image(6).png)
 ![Как выгляит решение в облаке](https://github.com/lenneverova/hello-world/blob/main/DE-101/Module%202/image(7).png)
+
+## Задание 5 - Как донести данные до бизнес-пользователя
+
+
